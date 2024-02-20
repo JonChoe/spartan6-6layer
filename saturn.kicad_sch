@@ -964,7 +964,7 @@
       (reference "R15") (unit 1) (value "10K") (footprint "saturn:R_0603_1608Metric")
     )
     (path "/3d877b71-b29c-4522-846b-3a4ef345ad87/b4aee95c-4128-4e06-b241-c39851dc4785"
-      (reference "R16") (unit 1) (value "10K") (footprint "saturn:R_0201_0603Metric")
+      (reference "R16") (unit 1) (value "10K") (footprint "saturn:R_0603_1608Metric")
     )
     (path "/3d877b71-b29c-4522-846b-3a4ef345ad87/4d70c752-5500-4d77-bd7f-c8d03c512aa3"
       (reference "R17") (unit 1) (value "4.7K") (footprint "saturn:R_0201_0603Metric")
@@ -1072,7 +1072,7 @@
       (reference "U8") (unit 1) (value "LM1117-ADJ") (footprint "saturn:SOT230P700X180-4N")
     )
     (path "/9bb3f9b6-6874-4f4d-8c8f-79932401819e/04ce4074-979b-4b29-a03b-3a775897dcf8"
-      (reference "U9") (unit 1) (value "MT46H32M16LF") (footprint "saturn:VFBGA60")
+      (reference "U9") (unit 1) (value "MT46H32M16LF") (footprint "saturn:MT46H32M16LF")
     )
     (path "/3d877b71-b29c-4522-846b-3a4ef345ad87/cc93c6be-4bc5-4cb2-90ff-ac86bc0ead0b"
       (reference "U10") (unit 1) (value "FXO-HC536R") (footprint "saturn:FXO-HC536R")

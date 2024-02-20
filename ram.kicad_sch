@@ -1113,7 +1113,7 @@
     (uuid 04ce4074-979b-4b29-a03b-3a775897dcf8)
     (property "Reference" "U9" (id 0) (at 146.05 44.45 0))
     (property "Value" "MT46H32M16LF" (id 1) (at 146.05 46.99 0))
-    (property "Footprint" "saturn:VFBGA60" (id 2) (at 146.05 73.66 0)
+    (property "Footprint" "saturn:MT46H32M16LF" (id 2) (at 146.05 73.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.snapeda.com/parts/MT46H32M16LFBF-5%20IT:C%20TR/Micron%20Technology/datasheet/" (id 3) (at 146.05 73.66 0)
