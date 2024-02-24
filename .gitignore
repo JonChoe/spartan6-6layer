@@ -31,3 +31,7 @@ fp-info-cache
 # Project directories
 saturn-backups/
 gerbers/
+deliverables/
+
+# Mac system files
+**/.DS_Store
