@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name "saturn")(type "KiCad")(uri "${KIPRJMOD}/saturn-files/footprints/saturn.pretty")(options "")(descr ""))
+  (version 7)
+  (lib (name "saturn")(type "KiCad")(uri "${KIPRJMOD}/saturn-library/footprints/saturn.pretty")(options "")(descr ""))
 )

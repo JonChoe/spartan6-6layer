@@ -1,5 +1,4 @@
 (sym_lib_table
-  (lib (name "saturn")(type "KiCad")(uri "${KIPRJMOD}/saturn-files/symbols/saturn.kicad_sym")(options "")(descr ""))
-  (lib (name "r")(type "KiCad")(uri "${KIPRJMOD}/saturn-files/symbols/r.kicad_sym")(options "")(descr ""))
-  (lib (name "lm1117-adj")(type "KiCad")(uri "${KIPRJMOD}/saturn-files/symbols/lm1117-adj.kicad_sym")(options "")(descr ""))
+  (version 7)
+  (lib (name "saturn-library")(type "KiCad")(uri "${KIPRJMOD}/saturn-library/symbols/saturn.kicad_sym")(options "")(descr ""))
 )
